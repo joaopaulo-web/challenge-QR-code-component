@@ -11,6 +11,7 @@ body{
     width: 100vw;
 }
 .main-card{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.233);
     padding: 15px 15px 0px 15px ;
     border-radius: 15px;
     background-color: white;
